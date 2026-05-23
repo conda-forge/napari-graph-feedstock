@@ -144,7 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@DragaDoncila](https://github.com/DragaDoncila/)
-* [@goanpeca](https://github.com/goanpeca/)
 * [@jaimergp](https://github.com/jaimergp/)
 * [@kephale](https://github.com/kephale/)
 * [@kevinyamauchi](https://github.com/kevinyamauchi/)
